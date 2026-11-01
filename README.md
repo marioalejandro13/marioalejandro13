@@ -3,7 +3,7 @@
 ## Sobre mí
 Soy estudiante de Desarrollo de Aplicaciones Web en Planeta FP.
 Estoy aprendiendo programación y mi objetivo es trabajar como
-desarrollador web, creando aplicaciones útiles y fáciles de usar.
+desarrollador web. 
 
 ## Tecnologías y herramientas
 - Java: estoy aprendiendo variables, condicionales, bucles y funciones.
